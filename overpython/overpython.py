@@ -18,7 +18,7 @@ import time, datetime
 from sys import platform as pt_
 import platform
 
-__version__     = "2.2.1"
+__version__     = "1.1.1"
 __warename__    = "Overcomplicated Python (Overpython)"
 ascii_letters   = string.ascii_letters
 numbers         = string.digits
@@ -33,7 +33,7 @@ def getchr(character):
     return chr(character)
 
 def getord(character):
-    return ord(charactter)
+    return ord(character)
 
 def machine():
     """
