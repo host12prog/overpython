@@ -8,7 +8,7 @@ from __future__ import print_function
 # And you might see some poor documentation. Sorry.
 # -- Supernova, 1.19.2020 4:39 PM
 #
-# And also, the whole point of overcomplicating Python is f**king defeated
+# And also, the whole point of overcomplicating Python is ******* defeated
 # When you do from overpython import *!
 # -- Supernova, 1.19.2020 4:41 PM
 
